@@ -55,3 +55,10 @@ body{
 a{
     color: white;
 }
+.swiper-container {
+    width: 600px;
+    height: 300px;
+}
+.none{
+    display: none;
+}
